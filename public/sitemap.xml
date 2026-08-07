@@ -11,7 +11,5 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/uitvaart/</loc>
-  </url><url>
-    <loc>http://localhost:1313/_index-copy/</loc>
   </url>
 </urlset>
