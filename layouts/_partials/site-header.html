@@ -1,0 +1,9 @@
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+
+<header class="cover bg-top">
+  <div class="bg-black-60">
+    {{ partials.Include "site-navigation.html" .}}
+
+    <img src="{{ $featured_image }}" alt="Robbie" />
+  </div>
+</header>

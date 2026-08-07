@@ -1,0 +1,4 @@
+background_color_class = 'bg-black-60'
+
+[ananke]
+show_recent_posts = false

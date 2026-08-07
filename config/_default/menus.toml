@@ -1,0 +1,14 @@
+[[main]]
+name = "Robbie"
+pageRef = "/"
+weight = 10
+
+[[main]]
+name = "Uitvaart"
+pageRef = "/uitvaart/"
+weight = 20
+
+[[main]]
+name = "Contact"
+pageRef = "/contact/"
+weight = 30

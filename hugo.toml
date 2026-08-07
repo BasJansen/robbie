@@ -1,0 +1,13 @@
+baseURL = 'https://hipsville.com/'
+locale = 'nl-NL'
+title = 'Robbie Geldof'
+enableRobotsTXT = true
+
+
+
+# [module]
+# [[module.imports]]
+# disable = false
+# ignoreConfig = false
+# ignoreImports = false
+# path = 'github.com/gohugo-ananke/ananke/v2'
