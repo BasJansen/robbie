@@ -10,8 +10,8 @@ Ken je Robbie? Dan ben je van harte welkom op zijn â€˜Vier-Robbies-leven-borrelâ
 
 Neem herinneringen, verhalen en gevoelens mee en laten we er een mooie middag van maken.
 
-Robbie kende veel mensen en willen wij genoeg drank en eten in huis halen. Droog staan, daar deed Robbie liever niet aan.
-Dus laat ons alvast weten of je komt via email: <uitvaartrobbie@gmail.com>
+Robbie kende veel mensen en daarom willen wij dat er genoeg drank en eten in huis is. Droog staan, daar deed Robbie liever niet aan. Dus laat ons alvast weten of je komt via email: <uitvaartrobbie@gmail.com>  
+(zelf meenemen mag ook)
 
 Merel, Bas, Fabian
 
