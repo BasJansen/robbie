@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-Hier contact informatie inzetten
+Laat weten of je komt via email of een appje te sturen naar Merel of Bas.
 
 - email
 - kaarten
