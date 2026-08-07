@@ -1,4 +1,4 @@
-baseURL = 'https://robbiegeldof.nl/'
+baseURL = 'http://robbiegeldof.nl/'
 locale = 'nl-NL'
 title = 'Robbie Geldof'
 enableRobotsTXT = true
