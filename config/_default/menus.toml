@@ -9,6 +9,16 @@ pageRef = "/uitvaart/"
 weight = 20
 
 [[main]]
+name = "Galerie"
+pageRef = "/galerie_intro/"
+weight = 30
+
+[[main]]
 name = "Contact"
 pageRef = "/contact/"
-weight = 30
+weight = 40
+
+# [[main]]
+# name = "Gallerie"
+# pageRef = "/galerie/"
+# weight = 60

@@ -1,0 +1,17 @@
+{{ range .Resources.Match "images/**" }} {{ if reflect.IsImageResource . }} {{
+if reflect.IsImageResourceProcessable . }} {{ with .Process "resize 300x webp"
+}}
+<img
+  src="{{ .RelPermalink }}"
+  width="{{ .Width }}"
+  height="{{ .Height }}"
+  alt="" />
+{{ end }} {{ else if reflect.IsImageResourceWithMeta . }}
+<img
+  src="{{ .RelPermalink }}"
+  width="{{ .Width }}"
+  height="{{ .Height }}"
+  alt="" />
+{{ else }}
+<img src="{{ .RelPermalink }}" alt="" />
+{{ end }} {{ end }} {{ end }}
