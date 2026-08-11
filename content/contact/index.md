@@ -3,7 +3,7 @@ title = "Contact"
 +++
 
 **Correspondentieadres:**  
-Betrokken Uitvaarten/Robbie Geldof
+Betrokken Uitvaarten/Robbie Geldof  
 Verdistraat 78  
 2555 VE  
 Den Haag  
