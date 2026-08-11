@@ -1,4 +1,4 @@
-{{ if eq .Title "Galerie" }}	
+{{ if eq .Title "Galerij" }}	
 	<header class="tc pv4">
 		<h1 class="f2 f1-m f-headline-l fw2 black-90 mb0 lh-title">Fotos</h1>
 		<h2 class="f6 fw4 gray mt2 ttu tracked">Robbie kriskras door de jaren heen</h2>
@@ -7,25 +7,11 @@
 	<main class="flex flex-wrap mx-auto max-w-7xl justify-center">
 
 		{{ range .Resources.Match "images/**" }} 
-
-
-			{{ if reflect.IsImageResource . }} 
-				{{ if reflect.IsImageResourceProcessable . }} 
-					{{ with .Process "resize 300x webp" }}				
-
-						<div class="w-100 w-50-m w-25-l pa2">
-							<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">
-								<img src="{{ .Name }}" class="w-100 db" alt="Galerij afbeelding 1">
-								{{/*  <div class="pa3">
-									<p class="f6 gray mv0"></p>
-									<h3 class="f5 mt1 mb0 black-80">Prachtig Landschap</h3>
-								</div>  */}}
-							</div>
-						</div>
-
-					{{ end }} 		
-				{{ end }} 
-			{{ end }} 
+			<div class="w-100 w-50-m w-50-l pa2">
+				<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">
+					<img src="{{ .Name }}" class="w-100 db" alt="Galerij afbeelding 1">					
+				</div>
+			</div>
 		{{ end }}
 	</main>
 

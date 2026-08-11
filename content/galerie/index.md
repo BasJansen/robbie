@@ -1,7 +1,0 @@
-+++
-title = "Galerie"
-layout = 'galerie'
-+++
-
-
-
