@@ -1,5 +1,5 @@
 +++
 title = "Robbie"
-featured_image = "/images/robbiezondermensen.png"
+featured_image = "/images/robbie.png"
 omit_header_text = true
 +++
