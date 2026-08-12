@@ -8,15 +8,15 @@ name = "Uitvaart"
 pageRef = "/uitvaart/"
 weight = 20
 
-## [[main]]
-##  name = "Galerij"
-##  pageRef = "/galerij/"
-##  weight = 30    
-
 [[main]]
 name = "Galerij"
-pageRef = "/galerij_intro/"
-weight = 30
+pageRef = "/galerij/"
+weight = 30    
+
+## [[main]]
+## name = "Galerij"
+## pageRef = "/galerij_intro/"
+## weight = 35
 
 [[main]]
 name = "Contact"
