@@ -7,11 +7,17 @@
 	<main class="flex flex-wrap mx-auto max-w-7xl justify-center">
 
 		{{ range sort (.Resources.Match "images/**") "Name" "asc" }} 
-			<div class="w-100 w-50-m w-50-l pa2">
-				<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">
-					<img src="{{ .Name }}" class="w-100 db" alt="Galerij afbeelding 1">					
-				</div>
-			</div>
+			{{ if reflect.IsImageResource . }}
+				{{ if reflect.IsImageResourceProcessable . }}
+					{{ with .Process "resize 800x webp" }}   
+						<div class="w-100 w-50-m w-50-l pa2">
+							<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">
+								<img src="{{ .RelPermalink }}" class="w-100 db" alt="Galerij afbeelding">					
+							</div>
+						</div>
+					{{ end }}
+				{{ end }}
+			{{ end }}
 		{{ end }}
 	</main>
 {{ end }} 
