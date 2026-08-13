@@ -4,14 +4,16 @@
 		<h2 class="f6 fw4 gray mt2 ttu tracked">Robbie kriskras door de jaren heen</h2>
 	</header>
 
-	<main class="flex flex-wrap mx-auto max-w-7xl justify-center">
+	<main class="flex flex-wrap mx-auto max-w-7xl justify-center">	
 
 		{{ range sort (.Resources.Match "images/**") "Name" "asc" }} 
+
 			{{ if reflect.IsImageResource . }}
 				{{ if reflect.IsImageResourceProcessable . }}
-					{{ with .Process "resize 800x webp" }}   
+					{{ $oriented := . | images.Filter (images.AutoOrient) }}
+					{{ with $oriented.Process "resize 800x webp" }}
 						<div class="w-100 w-50-m w-50-l pa2">
-							<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">
+							<div class="bg-white br2 ba b--black-10 overflow-hidden shadow-4 grow pointer">								
 								<img src="{{ .RelPermalink }}" class="w-100 db" alt="Galerij afbeelding">					
 							</div>
 						</div>
