@@ -9,6 +9,11 @@ pageRef = "/uitvaart/"
 weight = 20
 
 [[main]]
+name = "22 Augustus"
+pageRef = "/22 augustus/"
+weight = 20
+
+[[main]]
 name = "Galerij"
 pageRef = "/galerij/"
 weight = 30    
