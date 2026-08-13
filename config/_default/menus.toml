@@ -3,13 +3,13 @@ name = "Robbie"
 pageRef = "/"
 weight = 10
 
-[[main]]
-name = "Uitvaart"
-pageRef = "/uitvaart/"
-weight = 20
+## [[main]]
+## name = "Uitvaart"
+## pageRef = "/uitvaart/"
+## weight = 20
 
 [[main]]
-name = "22 Augustus"
+name = "22 Augustus (afscheid)"
 pageRef = "/22 augustus/"
 weight = 20
 
