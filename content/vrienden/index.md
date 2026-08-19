@@ -75,3 +75,18 @@ en een hart van goud. Een nieuwe eeuwige STER is geboren................vaarwel 
 Dank voor je vriendschap.
 
 Tot dan a.s. zaterdag  Elisabeth
+
+## Leo ##
+
+Mooi initiatief.  
+
+Ik ken Robbie eigenlijk alleen maar als binnenstad persoon en als 'overblijf'.
+In de vroege jaren uit de Joffer en veel later als overblijf. (Ik werkte als gymmees op de Freinet school). 
+Hij was populair bij de kinderen en nadat hij gestopt was werd hij regelmatig nog gevraagd.  
+
+Een markante Delftse persoonlijkheid heeft ons verlaten. Elke keer als ik een rode das zie, zal ik aan Robbie denken.
+Ik kom niet, maar ik wens jullie een mooi laatste afscheid.  
+
+Vriendelijke groet,  
+
+Leo Peterse
