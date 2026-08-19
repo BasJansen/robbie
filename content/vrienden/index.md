@@ -22,12 +22,12 @@ Groet, Ad
 ### Robbie op OD15 ###
 
 ![OD15-1](Robbie-op-OD15-1.jpg)  
-![OD15-1](Robbie-op-OD15-2.jpg)  
-![OD15-1](Robbie-op-OD15-3.jpg)  
-![OD15-1](Robbie-op-OD15-4.jpg)  
-![OD15-1](Robbie-op-OD15-5.jpg)  
-![OD15-1](Robbie-op-OD15-6.jpg)  
-![OD15-1](Robbie-op-OD15-8.jpg)  
+![OD15-2](Robbie-op-OD15-2.jpg)  
+![OD15-3](Robbie-op-OD15-3.jpg)  
+![OD15-4](Robbie-op-OD15-4.jpg)  
+![OD15-5](Robbie-op-OD15-5.jpg)  
+![OD15-6](Robbie-op-OD15-6.jpg)  
+![OD15-8](Robbie-op-OD15-8.jpg)  
 
 ## Eus ##
 
@@ -45,3 +45,33 @@ Is het mogelijk dat jullie een levensverhaal van hem schrijven in max 310 woorde
   
 groet,  
 Jan
+
+## Ad ##
+
+Ik vond in mijn archief nog een foto, waar Robbie (2e links) en ik (2e van rechts) samen opstaan.
+Op een vrijdagavond in de Klok aan Robbie beloofd, dat ik die zaterdagochtend erop zijn voetbalelftal zou komen versterken, omdat ze 'een mannetje tekort' kwamen. Robbie was dat (ondanks zijn flinke alcoholinname) wel gewend, maar nadat ik 1 keer het hele veld was over gerend, was ik helemaal compleet verrot en hadden ze eigenlijk niks meer aan me!
+Ik mocht wel mee op de foto!😉
+
+![voetbal](voetbal.jpg)
+
+## Karin ##
+
+Ik kom zaterdag naar de afscheidsborrel van Robbie. En ik neem een fles “stoli” mee om Robbie en onze legendarische reis naar Moskou en Leningrad nog een keer in gepaste stijl te herdenken. 😜
+
+Tot dan,
+Karin
+
+## Elisabeth ##
+
+Allereerst familie en vrienden  van harte gecondoleerd  
+
+Heb hele goede herinneringen aan vriend Robbie uit mijn jonge jaren.
+Later is de vriendschap verwaterd en ben ik verhuist uit Delft naar Driebergen.  
+
+Via Peter hoorde ik van het overlijden en de  vier-robbies-leven-borrel.
+Graag hoor ik over de laatste jaren van Robbie , hij was zo bijzonder met zijn cynische humor  
+en een hart van goud. Een nieuwe eeuwige STER is geboren................vaarwel mijn ster  ........de herinnering blijft.
+
+Dank voor je vriendschap.
+
+Tot dan a.s. zaterdag  Elisabeth
